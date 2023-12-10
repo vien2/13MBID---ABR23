@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Master/Metodolog%C3%ADas%20de%20gesti%C3%B3n%20y%20dise%C3%B1o%20de%20proyectos%20Big%20Data/Actividad%201/13MBID---ABR23/notebooks/03-Modelado%2BEvaluacion/mlruns/544994373235786626/ed044769425e4465a6b75ccb178e493a/artifacts
+end_time: 1702231283026
+entry_point_name: ''
+experiment_id: '544994373235786626'
+lifecycle_stage: active
+run_id: ed044769425e4465a6b75ccb178e493a
+run_name: KNN
+run_uuid: ed044769425e4465a6b75ccb178e493a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1702231278393
+status: 3
+tags: []
+user_id: juan_

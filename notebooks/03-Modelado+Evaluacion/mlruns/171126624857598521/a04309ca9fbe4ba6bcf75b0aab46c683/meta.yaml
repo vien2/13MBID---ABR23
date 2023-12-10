@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Master/Metodolog%C3%ADas%20de%20gesti%C3%B3n%20y%20dise%C3%B1o%20de%20proyectos%20Big%20Data/Actividad%201/13MBID---ABR23/notebooks/03-Modelado%2BEvaluacion/mlruns/171126624857598521/a04309ca9fbe4ba6bcf75b0aab46c683/artifacts
+end_time: 1702229327601
+entry_point_name: ''
+experiment_id: '171126624857598521'
+lifecycle_stage: active
+run_id: a04309ca9fbe4ba6bcf75b0aab46c683
+run_name: Decision Tree
+run_uuid: a04309ca9fbe4ba6bcf75b0aab46c683
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1702229324420
+status: 3
+tags: []
+user_id: juan_
