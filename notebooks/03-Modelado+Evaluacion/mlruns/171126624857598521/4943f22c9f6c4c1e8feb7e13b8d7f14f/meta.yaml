@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Master/Metodolog%C3%ADas%20de%20gesti%C3%B3n%20y%20dise%C3%B1o%20de%20proyectos%20Big%20Data/Actividad%201/13MBID---ABR23/notebooks/03-Modelado%2BEvaluacion/mlruns/171126624857598521/4943f22c9f6c4c1e8feb7e13b8d7f14f/artifacts
+end_time: 1702233868159
+entry_point_name: ''
+experiment_id: '171126624857598521'
+lifecycle_stage: active
+run_id: 4943f22c9f6c4c1e8feb7e13b8d7f14f
+run_name: Random Forest
+run_uuid: 4943f22c9f6c4c1e8feb7e13b8d7f14f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1702233864912
+status: 3
+tags: []
+user_id: juan_
